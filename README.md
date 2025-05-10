@@ -17,3 +17,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bro7777&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph" />
   </a>
 </p>
+
+## 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/Bro7777?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Bro7777&theme=onestar&no-frame=true&column=3&row=2" width="50%" alt="Trophy Stats" />
+  </a>
+</p>
