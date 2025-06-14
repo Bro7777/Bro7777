@@ -114,7 +114,4 @@ A Python-based media downloader bot that allows users to fetch and save videos f
   </a>
 </p>
 
----
 
-## Google Verification
-<meta name="google-site-verification" content="zH7jWWuAZNLOaQvrHZSJX9t1rIsP-ptkKIZgNW4SHZw" />
