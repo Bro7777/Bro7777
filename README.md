@@ -113,3 +113,8 @@ A Python-based media downloader bot that allows users to fetch and save videos f
     <img src="https://github-profile-trophy.vercel.app/?username=Bro7777&theme=onestar&no-frame=true&column=3&row=2" width="50%" alt="Trophy Stats" />
   </a>
 </p>
+
+---
+
+## Google Verification
+<meta name="google-site-verification" content="zH7jWWuAZNLOaQvrHZSJX9t1rIsP-ptkKIZgNW4SHZw" />
