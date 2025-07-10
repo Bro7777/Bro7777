@@ -24,10 +24,10 @@ I’m a high school student passionate about algorithms, problem-solving, and bu
 - ⚛️ **Azerbaijan Subjects Competition (Physics) 2021–2022** – 🥇Gold Medal (**1st place**)  
 - 📐 **STEMCo Math 2021–2022** – 🥈Silver Medal  
 - 💻 **ARIO (Azerbaijan Republic Informatics Olympiad) 2022–2023** – Finalist  
-- 💻 **Azercell Cup 2022–2023** – 🥈Silver Medal (**6th place**)  
+- 💻 **Azercell Cup 2022–2023** – 🥈Silver Medal
 - 💻 **ARIO (Azerbaijan Republic Informatics Olympiad) 2023–2024** – Finalist  
 - ⚛️ **ARPhO (Azerbaijan Republic Physics Olympiad) 2023–2024** – Finalist  
-- 💻 **ARIO ((Azerbaijan Republic Informatics Olympiad) 2024–2025** – 🥉Bronze Medal (**40th place**)
+- 💻 **ARIO ((Azerbaijan Republic Informatics Olympiad) 2024–2025** – 🥉Bronze Medal 
 
 ---
 
