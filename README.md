@@ -114,4 +114,4 @@ A Python-based media downloader bot that allows users to fetch and save videos f
   </a>
 </p>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Bro7777&style=flat-square&color=blue)
