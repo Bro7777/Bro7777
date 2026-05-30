@@ -19,59 +19,7 @@ I’m a high school student passionate about algorithms, problem-solving, and bu
 
 ---
 
-## 🏆 Achievements & Awards
-
-- ⚛️ **Azerbaijan Subjects Competition (Physics) 2021–2022** – 🥇Gold Medal (**1st place**)  
-- 📐 **STEMCo Math 2021–2022** – 🥈Silver Medal  
-- 💻 **ARIO (Azerbaijan Republic Informatics Olympiad) 2022–2023** – Finalist  
-- 💻 **Azercell Cup 2022–2023** – 🥈Silver Medal
-- 💻 **ARIO (Azerbaijan Republic Informatics Olympiad) 2023–2024** – Finalist  
-- ⚛️ **ARPhO (Azerbaijan Republic Physics Olympiad) 2023–2024** – Finalist  
-- 💻 **ARIO ((Azerbaijan Republic Informatics Olympiad) 2024–2025** – 🥉Bronze Medal 
-
----
-
-## 📂 Projects
-
-### 🔹 [Prius-bot](https://discord.com/api/oauth2/authorize?client_id=1174413056776863804&permissions=8&scope=bot)
-An automation/chat bot built with Python. Features command parsing, event handling, and a modular, scalable structure.
-
-### 🔹 [TR-Coders](https://trcoders-v2.onrender.com/index/index)
-A community-oriented platform offering resources, contests, and guidance for aspiring programmers.
-
-### 🔹 [EZDownloader](https://discord.com/oauth2/authorize?client_id=1368973040599306382)
-A Python-based media downloader bot that allows users to fetch and save videos from various platforms with ease.[Repo-link](https://github.com/Bro7777/EZDownloader-bot) 
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** Python, C++
-- **Web:** HTML, CSS
-- **Backend:** Python Django 
-- **Tools:** Git, Linux, Docker   
-- **Focus Areas:** Algorithms, Data Structures, Bots, Systems Programming,Web Development
-
-
----
-
-## 🌍 Languages
-
-- **Turkish:** Fluent  
-- **English:** Advanced  
-- **Azerbaijani:** Native  
-
----
-
-## 🎯 Goals
-
-- Continue building impactful and technically challenging projects  
-- Contribute more to open-source and competitive programming communities  
-- Stay curious and keep shipping
-
-
-
-
+## WILL BE UPDATED
 
 
 
